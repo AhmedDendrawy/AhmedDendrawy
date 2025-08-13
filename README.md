@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dendrawy</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=4CAF50&center=true&vCenter=true&width=600&lines=Computer+Science+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=5000&color=4CAF50&center=true&vCenter=true&width=600&lines=Computer+Science+Student)
 
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
