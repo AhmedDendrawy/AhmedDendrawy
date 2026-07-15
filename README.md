@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Dendrawy</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=5000&color=4CAF50&center=true&vCenter=true&width=600&lines=Computer+Science+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=5000&color=4CAF50&center=true&vCenter=true&width=600&lines=Android+developer)
 
-<h3 align="center">A passionate Android developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeddendrawy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeddendrawy" /> </p>
 
