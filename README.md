@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **production-ready native Android applications** with a focus on Clean Architecture.
+-🔭 I’m currently building native Android applications using Kotlin and MVVM.
 - 📱 Tech Stack: **Kotlin, MVVM, Room Database, Retrofit, Coroutines, and Jetpack Compose**.
 - 💼 Currently open for **Junior Android Developer / Intern** opportunities.
 - 📫 How to reach me: **ahmeddendrawy63@gmail.com**
