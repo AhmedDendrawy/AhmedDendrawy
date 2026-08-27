@@ -14,7 +14,6 @@
 
 - 🔭 I’m currently building **production-ready native Android applications** with a focus on Clean Architecture.
 - 📱 Tech Stack: **Kotlin, MVVM, Room Database, Retrofit, Coroutines, and Jetpack Compose**.
-- 🌱 I’m actively applying **SOLID principles** and designing complex database schemas for POS and Smart Surveillance systems.
 - 💼 Currently open for **Junior Android Developer / Intern** opportunities.
 - 📫 How to reach me: **ahmeddendrawy63@gmail.com**
 
@@ -40,12 +39,3 @@
   <!-- Postman -->
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddendrawy&show_icons=true&locale=en&theme=radical" alt="ahmeddendrawy stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmeddendrawy&show_icons=true&locale=en&layout=compact&theme=radical" alt="ahmeddendrawy top langs" height="150" />
-</div>
